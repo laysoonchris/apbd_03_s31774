@@ -1,0 +1,6 @@
+C:\Users\Piwo\RiderProjects\APBD_APP_03\APBD_APP_03\bin\Debug\APBD_APP_03.exe
+C:\Users\Piwo\RiderProjects\APBD_APP_03\APBD_APP_03\bin\Debug\APBD_APP_03.pdb
+C:\Users\Piwo\RiderProjects\APBD_APP_03\APBD_APP_03\obj\Debug\APBD_APP_03.csproj.AssemblyReference.cache
+C:\Users\Piwo\RiderProjects\APBD_APP_03\APBD_APP_03\obj\Debug\APBD_APP_03.csproj.CoreCompileInputs.cache
+C:\Users\Piwo\RiderProjects\APBD_APP_03\APBD_APP_03\obj\Debug\APBD_APP_03.exe
+C:\Users\Piwo\RiderProjects\APBD_APP_03\APBD_APP_03\obj\Debug\APBD_APP_03.pdb
